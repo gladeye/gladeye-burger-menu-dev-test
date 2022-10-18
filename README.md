@@ -1,3 +1,33 @@
+## Gladeye Burger Menu Dev Test
+
+#### Description
+A mobile menu with a nested accordion style sub menu designed for screens 768px and smaller.
+
+#### Task
+Clone this repo and build out the menu to match the design file supplied (see below).
+
+#### Figma Design File
+https://www.figma.com/file/0UABz9KS3BEj43V93OR8u3/Gladeye-Burger-Menu-Dev-Test 
+
+#### Requirements
+- Use CSS Modules or Tailwind CSS
+- Use Framer Motion or React Transition Group/CSS Transitons for any animations
+- The menu must have some form of enter/exit animation
+- Burger style button opens the menu
+- Close (x) button closes the menu
+- Clicking a menu item with plus (+) icon opens the sub menu
+- Clicking a menu item with minus (-) icon close the sub menu
+- Esc key to close the menu
+
+#### Bonuses
+- Animate the burger (menu) icon between the open and closed states
+- Clicking a menu item closes the menu
+- Accordion style sub menu open/close animation
+
+#### Time estimate 2-4 hours.
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
